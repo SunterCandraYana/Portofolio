@@ -145,9 +145,6 @@ nav ul li a {
   transition: all 0.3s;
   z-index: 99;
 }
-.burger div:hover {
-  color: var(--primariIconColorHover);
-}
 
 .burger {
   display: none;
